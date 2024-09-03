@@ -27,7 +27,7 @@ Los usuarios deben ser capaces de:
 ### Links
 
 - Solucion URL: [https://github.com/agros55/social-links-profile](https://github.com/agros55/social-links-profile)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://agros55.github.io/social-links-profile/](https://agros55.github.io/social-links-profile/)
 
 ## Construido con
 
@@ -39,4 +39,4 @@ Los usuarios deben ser capaces de:
 ## Autor
 
 - GitHub - [agros55](https://github.com/agros55/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@agros55](https://www.frontendmentor.io/profile/agros55)
